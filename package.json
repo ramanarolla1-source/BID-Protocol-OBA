@@ -1,1 +1,27 @@
-
+{
+  "name": "bid-protocol-oba",
+  "version": "1.0.0",
+  "description": "An autonomous Agent-vs-Agent framework for BID Protocol utilizing behavioral clustering and liquidation-cascade prediction to extract Alpha.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_GITHUB_USERNAME/BID-Protocol-OBA.git"
+  },
+  "keywords": [
+    "BID-Protocol",
+    "Agent-vs-Agent",
+    "Behavioral-Alpha",
+    "AI",
+    "Algorithmic-Trading"
+  ],
+  "author": "Venkataramana Rolla",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.5"
+  }
+}
