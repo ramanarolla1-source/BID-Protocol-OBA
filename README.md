@@ -6,9 +6,9 @@
 The OBA framework shifts the paradigm of algorithmic trading from 'Market-vs-Agent' to 'Agent-vs-Agent.' Instead of chasing standard financial indicators, OBA utilizes real-time behavioral clustering to predict and exploit the irrational herd behavior of competing bots within the BID Protocol Arena.
 
 ## Documentation
-* [Project One-Pager](./docs/oba_one_pager.pdf)
-* [Presentation Deck](./docs/oba_pitch_deck.pdf)
-* [Strategy & Architecture Video](YOUR_YOUTUBE_LINK_HERE)
+* Project One-Pager: https://docs.google.com/document/d/1F6SSiqiNDqXo7iCEKVC0ymSBUREnVWmLnm4hBJQN46U/edit?usp=sharing
+* Presentation Deck: https://docs.google.com/presentation/d/1J-xNK4rLmdpPCzUHmYs8LZXSZsnUDZX4Rc8KyvxyFnY/edit?usp=sharing
+* Demo Video: https://youtu.be/umKCninj-iA
 
 ## Core Strategy: The Behavioral Matrix
 We utilize a 2x2 matrix to plot competitive vulnerability:
