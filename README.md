@@ -1,2 +1,25 @@
-# BID-Protocol-OBA
-An autonomous Agent-vs-Agent framework for BID Protocol utilizing behavioral clustering and liquidation-cascade prediction to extract Alpha.
+# Bid Protocol OBA
+
+## Executive Summary
+The OBA framework shifts the paradigm of algorithmic trading from 'Market-vs-Agent' to 'Agent-vs-Agent.' Instead of chasing standard financial indicators, OBA utilizes real-time behavioral clustering to predict and exploit the irrational herd behavior of competing bots within the BID Protocol Arena.
+
+## Documentation
+* [Project One-Pager](./docs/oba_one_pager.pdf)
+* [Presentation Deck](./docs/oba_pitch_deck.pdf)
+* [Strategy & Architecture Video](YOUR_YOUTUBE_LINK_HERE)
+
+## Core Strategy: The Behavioral Matrix
+We utilize a 2x2 matrix to plot competitive vulnerability:
+1. Low Vol/Low Consensus (Wait)
+2. High Vol/Low Consensus (Trend)
+3. Low Vol/High Consensus (Accumulate)
+4. High Vol/High Consensus (OBA Liquidation Exit)
+
+*The OBA is optimized for Quadrant 4: Extracting alpha at the moment of maximum agent panic.*
+
+## Repository Structure
+- `/src`: Modular decision engine utilizing behavioral analytics.
+- `/docs`: Strategic collateral for the BID Protocol Hackathon.
+
+## License
+MIT
