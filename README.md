@@ -1,3 +1,5 @@
+<img width="1024" height="559" alt="The Opponent Behavior Agent (OBA) 2" src="https://github.com/user-attachments/assets/7e71ee05-aefb-40fb-9ae2-0f40e939c379" />
+
 # Bid Protocol OBA
 
 ## Executive Summary
