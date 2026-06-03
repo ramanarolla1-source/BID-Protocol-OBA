@@ -9,7 +9,12 @@ The Opponent Behavior Agent (OBA) is an autonomous, behavioral-predictive liquid
 
 🏗️ Architecture
 (Recommendation: Insert a Mermaid.js diagram or a simple flowchart here showing: Agentverse -> OBA Logic -> BID Protocol API -> Liquidity Outcome)
-StepProcessData Flow1. Data IngestBID Protocol FeedMarket Data2. Decision LayerOBA Predictive EngineStrategic Modeling3. ActionExecution APILiquidity Deployment4. FeedbackBID ProtocolMarket Outcome
+__________________________________________________________
+|                                                        |
+|   BID PROTOCOL FEED  ------>  OBA PREDICTIVE ENGINE    |
+|                                                        |
+|   LIQUIDITY DEPLOY   <------  EXECUTION API LAYER      |
+|________________________________________________________|
 🚀 Key Features
 Behavioral Predictive Modeling: Simulates and predicts opponent moves within the BID Protocol framework to optimize deployment.
 
