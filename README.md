@@ -67,6 +67,7 @@ We utilize a 2x2 matrix to plot competitive vulnerability:
 
 ## License
 MIT
+
 📧 Contact
 For inquiries regarding professional collaboration, technical partnerships, or agent deployment strategies:
 
